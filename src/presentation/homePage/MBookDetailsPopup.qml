@@ -299,19 +299,37 @@ Popup {
                                         text: "English"
                                     }
                                     ListElement {
-                                        text: "German"
+                                        text: "Arabic"
                                     }
                                     ListElement {
-                                        text: "Italian"
+                                        text: "Bengali"
+                                    }
+                                    ListElement {
+                                        text: "Dutch"
                                     }
                                     ListElement {
                                         text: "French"
                                     }
                                     ListElement {
-                                        text: "Romanian"
+                                        text: "German"
                                     }
                                     ListElement {
-                                        text: "Spanish"
+                                        text: "Hindi"
+                                    }
+                                    ListElement {
+                                        text: "Hungarian"
+                                    }
+                                    ListElement {
+                                        text: "Indonesian"
+                                    }
+                                    ListElement {
+                                        text: "Italian"
+                                    }
+                                    ListElement {
+                                        text: "Japanese"
+                                    }
+                                    ListElement {
+                                        text: "Korean"
                                     }
                                     ListElement {
                                         text: "Mandarin"
@@ -320,40 +338,22 @@ Popup {
                                         text: "Portugese"
                                     }
                                     ListElement {
-                                        text: "Hindi"
-                                    }
-                                    ListElement {
-                                        text: "Bengali"
+                                        text: "Romanian"
                                     }
                                     ListElement {
                                         text: "Russian"
                                     }
                                     ListElement {
-                                        text: "Arabic"
-                                    }
-                                    ListElement {
-                                        text: "Japanese"
-                                    }
-                                    ListElement {
-                                        text: "Indonesian"
-                                    }
-                                    ListElement {
-                                        text: "Turkish"
-                                    }
-                                    ListElement {
-                                        text: "Korean"
-                                    }
-                                    ListElement {
-                                        text: "Hungarian"
-                                    }
-                                    ListElement {
-                                        text: "Thai"
+                                        text: "Spanish"
                                     }
                                     ListElement {
                                         text: "Swahli"
                                     }
                                     ListElement {
-                                        text: "Dutch"
+                                        text: "Thai"
+                                    }
+                                    ListElement {
+                                        text: "Turkish"
                                     }
                                 }
                             }
