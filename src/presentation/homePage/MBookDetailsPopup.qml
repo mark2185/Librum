@@ -350,6 +350,9 @@ Popup {
                                         text: "Swahili"
                                     }
                                     ListElement {
+                                        text: "Swedish"
+                                    }
+                                    ListElement {
                                         text: "Thai"
                                     }
                                     ListElement {
