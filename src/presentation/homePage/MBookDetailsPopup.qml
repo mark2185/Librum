@@ -347,7 +347,7 @@ Popup {
                                         text: "Spanish"
                                     }
                                     ListElement {
-                                        text: "Swahli"
+                                        text: "Swahili"
                                     }
                                     ListElement {
                                         text: "Thai"
